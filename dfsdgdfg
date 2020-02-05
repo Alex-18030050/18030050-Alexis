@@ -1,0 +1,30 @@
+[33mcommit d6c38ef7bd839e8b87a3cd2a569c00629c66c0e5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alexis Baltazar Lopez Soberanes <18030050@uadeo.mx>
+Date:   Tue Feb 4 12:19:38 2020 -0600
+
+    JS
+    
+    Se agrego el javascript
+
+[33mcommit 76b3505d39b54898bafe7c47e6256673792c3101[m
+Author: Alexis Baltazar Lopez Soberanes <18030050@uadeo.mx>
+Date:   Tue Feb 4 12:14:51 2020 -0600
+
+    CSS
+    
+    Se agrego el CSS
+
+[33mcommit e0f48987b5d60abf1891056462478746e70e452d[m
+Author: Alexis Baltazar Lopez Soberanes <18030050@uadeo.mx>
+Date:   Tue Feb 4 12:03:59 2020 -0600
+
+    HTML
+    
+    Se le agrego la estructura de html
+
+[33mcommit 8f4cb2990a3fd18470887018ca5fdcd3b4c089a7[m
+Author: Alexis Baltazar Lopez Soberanes <18030050@uadeo.mx>
+Date:   Tue Feb 4 11:42:12 2020 -0600
+
+    Primera version
+    Esta es la primera version del codigo creado y guardado desde VSCode
